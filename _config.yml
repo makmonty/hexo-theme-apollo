@@ -1,12 +1,12 @@
 menu:
+    Home: http://makmonty.com
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    GitHub: https://github.com/makmonty
     Rss: /atom.xml
 
 favicon: /favicon.png
-logo: /favicon.png
+logo: /makmonty-sombra-verde.png
 
 # Comment
 # e.g disqus: seansun
@@ -18,4 +18,4 @@ duoshuo:
 ga: UA-65933410-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2018
